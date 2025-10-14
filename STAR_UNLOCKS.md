@@ -23,7 +23,7 @@
 
 _Type legend: **Theory** (concepts, specs, PDFs) · **Application** (engines, OS modules, tools) · **Teaching** (maps, tutorials, clinics)_
 
-_Last updated: Aug 19, 2025_
+_Last updated: Oct 13, 2025_
 
 ---
 ## PSBigBig — Self-Unlocked
