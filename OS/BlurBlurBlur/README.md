@@ -63,7 +63,7 @@
 
 </div>
 
-# Blur Blur Blur **Lite** — Math Canvas Quickstart (1.0)
+# Blur Blur Blur **Lite** — Math Canvas Quickstart (Beta)
 
 This is the **world’s first math-first T2I** you can run in any chat: build a canvas from **mathematical structure + Real/Imag fields**, then render.  
 Lite focuses on a clean, safe set of knobs so newcomers can feel the “math shock” in one minute.
